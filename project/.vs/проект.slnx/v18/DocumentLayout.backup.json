@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\58558\\OneDrive\\Desktop\\project petr\\\u043F\u0440\u043E\u0435\u043A\u0442\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE28DFEF-4FAF-4507-AE93-88278878037A}|\u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442.vcxproj|C:\\Users\\58558\\OneDrive\\Desktop\\project petr\\\u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE28DFEF-4FAF-4507-AE93-88278878037A}|\u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442.vcxproj|solutionrelative:\u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u043F\u0440\u043E\u0435\u043A\u0442.cpp",
+              "DocumentMoniker": "C:\\Users\\58558\\OneDrive\\Desktop\\project petr\\\u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442.cpp",
+              "RelativeDocumentMoniker": "\u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442.cpp",
+              "ToolTip": "C:\\Users\\58558\\OneDrive\\Desktop\\project petr\\\u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442.cpp",
+              "RelativeToolTip": "\u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442.cpp",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-25T22:05:35.839Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
